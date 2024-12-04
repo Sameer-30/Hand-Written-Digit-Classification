@@ -29,10 +29,4 @@ This project demonstrates the implementation of a **Handwritten Digit Classifica
 ## Results
 The model achieves a high accuracy on the test set, demonstrating the effectiveness of deep learning for handwritten digit recognition. The predictions are visually compared to the actual labels to evaluate model performance.
 
-## Getting Started
-To run the project locally, clone the repository and install the necessary dependencies:
 
-```bash
-git clone https://github.com/your-username/handwritten-digit-classification.git
-cd handwritten-digit-classification
-pip install -r requirements.txt
